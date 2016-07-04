@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-test2344
-
-<<<<<<< HEAD
-git test 33333  
-=======
-test2344
->>>>>>> parent of 5ec891c... ㅎㅎ
-=======
-git test 33333
->>>>>>> parent of 62e550f... 22
+ㅎㅎㅎㅎ
