@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 test2344
 
 git test 33333  
+=======
+test2344
+>>>>>>> parent of 5ec891c... ㅎㅎ
