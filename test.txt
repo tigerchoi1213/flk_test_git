@@ -5,6 +5,7 @@
 		<head>
 		<ul>
 			<li>Git이란?</li>
+			<li>Git이란?2</li>
 		</ul>
 	</body>
 </html>
